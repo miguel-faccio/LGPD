@@ -1,0 +1,112 @@
+*{
+    padding: 5px;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Eagle Lake', cursive;
+}
+body{
+    background-color: #F2D06B;
+    
+    
+}
+header{
+    background-color: #F2B56B;
+    height: 40px;
+    height: 100%;
+    border-radius: 15px;
+}
+p{
+    text-align: center;
+    font-size: 40px;
+}
+p#pp{
+    font-size: 17px;
+}
+nav{
+    background-color: #a6796f36;
+    width: 75%;
+    height: 30px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+    border-radius: 5px;
+    position: absolute;
+    left: 150px;
+
+}
+a{
+    color: #26150F;
+    text-decoration: none;
+    border: 2px solid #26150F;
+    
+}
+div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+section{
+ 
+    scroll-behavior: smooth;
+    margin: 25px;
+    margin-top: 55px;
+    background-color: #F2CEAE;
+    width: 55%;
+    height: 500px;
+    border-radius: 7px;
+    border: 2px solid #26150F;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+div#saber{
+    position: relative;
+    top: 330px;
+    margin-top: 100px;
+}
+
+section#Extra{
+    width: 500px;
+    overflow-y: hidden;
+}
+aside{
+    background-color:  #F2B56B ;
+    margin-top: 55px;
+    margin-left: 50px;
+    height: 500px ;
+    width: 400px ;
+    display: flex ;
+    border-radius: 7px;
+    border: 5px dotted #26150F;
+    display: flex;
+    flex-direction: row;
+
+
+}
+p#me{
+    font-size: 30px;
+    text-align: center;
+}
+div#second{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+p#oq{
+    font-size: 20px;
+}
+img{
+    width: 450px;
+    height: 350px;
+    border-radius: 10px;
+}
+section#saber{
+    overflow: scroll;
+}
+p#extr{
+    font-size: 20px;
+    
+}
